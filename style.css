@@ -3,3 +3,11 @@
   margin:0;
   box-sizing:border-box;
 }
+
+#imagem
+{
+  background-image: url("../img/forca00.png");
+  width:234px;
+  height: 272px;
+  background-repeat:no-repeat;
+}
