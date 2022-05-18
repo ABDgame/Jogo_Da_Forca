@@ -13,6 +13,12 @@ body
  font family: 'Ubuntu', sans-serif;
 }
 .container
+{
+  display: flex;
+  justify-content: center;
+  align-item: center;
+  flex-wrap: wrap;
+  flex-direction: column;
 }
 #imagem
 {
