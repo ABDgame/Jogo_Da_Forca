@@ -27,3 +27,11 @@ body
   height: 272px;
   background-repeat:no-repeat;
 }
+#palavra-secreta
+{
+  display: flex;  
+  flex-direction: row;
+  justify-content: center;
+  align-item: center;
+  font-size: 1em;
+}
