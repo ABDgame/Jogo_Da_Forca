@@ -34,7 +34,7 @@ body
   justify-content: center;
   align-item: center;
   font-size: 1em;
-  margin-top:10px;
+  margin-top:30px;
 }
 .letras
 {
@@ -46,5 +46,9 @@ body
   margin-left: 2px;
   margin-right: 2px;
 }
+#teclado
+{
+  margin-top: 30px;
   
+}
   
