@@ -61,8 +61,10 @@ body
   margin: 2px;
   margin-bottom:5px;
   cursor: pointer;
-  box-shadw: 0px 2px 8px desgray;
+  box-shadw: 0px 2px 8px dimgray;
   border-radius: 5px;
-  border: 1px solid 
+  border: 1px solid dimgrey;
+  color: #0A3871;
+  font-weight: 900;
  }
   
