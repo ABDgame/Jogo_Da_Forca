@@ -48,7 +48,17 @@ body
 }
 #teclado
 {
-  margin-top: 30px;
-  
+  margin-top: 30px;  
 }
+.teclas button
+{
+  width: 24px;
+  height: 24px;
+  margin: 2px;
+  margin-bottom:5px;
+  cursor: pointer;
+  box-shadw: 0px 2px 8px desgray;
+  border-radius: 5px;
+  border: 1px solid 
+ }
   
