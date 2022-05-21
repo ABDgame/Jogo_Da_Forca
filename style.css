@@ -56,15 +56,22 @@ body
 }
 .teclas button
 {
-  width: 24px;
-  height: 24px;
-  margin: 2px;
-  margin-bottom:5px;
-  cursor: pointer;
-  box-shadw: 0px 2px 8px dimgray;
-  border-radius: 5px;
-  border: 1px solid dimgrey;
-  color: #0A3871;
-  font-weight: 900;
+  font-size:inherit;
+  grid-column: span 2;
+  border: none;
+  padding:0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(
+    var(--hue, 200),
+    var(--saturation,1%), 
+    calc(var(--lightness-offset,0%) + var(--lightness,51%)));
+    color: white;
+    fill: white;
+    text-transform: uppercase;
+    border-radius: .25em;
+    cursor: pointer;
+    user-select: none;
  }
   
