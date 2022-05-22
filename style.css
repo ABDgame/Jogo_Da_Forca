@@ -21,6 +21,11 @@ body{
   flex-direction: column;
 }
 
+.logo img{
+  height:100px;
+  float:left;
+  margin-top: 30px;
+}
 #imagem{
   background-image: url("../img/forca00.png");
   width: 234px;
