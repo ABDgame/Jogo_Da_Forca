@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:wght@500&display=swap&&effect=shadow-multiple');
 *{
-    padding:0;
-    margin:0;
-    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 body{
  width: 100vw;
  height: 90vh;
- margin-top:10px;
- background-color:#F3F5FC;
+ margin-top: 10px;
+ background-color: #F3F5FC;
  font-family: 'Ubuntu', sans-serif;
 }
 
@@ -46,7 +46,7 @@ body{
   width: 16px;
   text-align: center;
   border-bottom: 2px solid #0A3871;
-  color:#0A3871;
+  color: #0A3871;
   padding: 2px;
   margin-left: 2px;
   margin-right: 2px;
@@ -65,7 +65,7 @@ body{
   box-shadow: 0px 2px 8px dimgray;
   border-radius: 5px;
   border: 1px solid dimgray;
-  color:#0A3871;
+  color: #0A3871;
   font-family: 'Ubuntu', sans-serif;
   font-weight: 900;
  }
@@ -75,6 +75,6 @@ body{
 #categoria{
   margin-top: 30px;
   color:#0A3871;
-  font-size:1.2em;
+  font-size: 1.2em;
   
 }
