@@ -66,6 +66,7 @@ body{
   border-radius: 5px;
   border: 1px solid dimgray;
   color: #0A3871;
+  font-family: 'Ubuntu', sans-serif;
   font-weight: 900;
  }
 .teclas button:hover{
