@@ -83,19 +83,22 @@ body{
         height: 25px;
      }
     #categoria{
-        font-size: 1.2em;
+        font-size: 1.3em;
     }    
 }
 @media (min-width: 376px){
     .teclas button{
-        width: 30px;
-        height: 30px;
+        width: 36px;
+        height: 36px;
      }
     #palavra-secreta{
-        font-size: 1.2em;
+        font-size: 1.5em;
+    }
+    .letras{
+        width: 20px;
     }
     #categoria{
-        font-size: 1.2em;
+        font-size: 1.6em;
     }    
 }
     
