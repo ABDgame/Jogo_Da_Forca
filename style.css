@@ -76,5 +76,27 @@ body{
   margin-top: 30px;
   color:#0A3871;
   font-size: 1.2em;
-  
 }
+@media (min-width: 321px){
+    .teclas button{
+        width: 25px;
+        height: 25px;
+     }
+    #categoria{
+        font-size: 1.2em;
+    }    
+}
+@media (min-width: 376px){
+    .teclas button{
+        width: 30px;
+        height: 30px;
+     }
+    #palavra-secreta{
+        font-size: 1.2em;
+    }
+    #categoria{
+        font-size: 1.2em;
+    }    
+}
+    
+
