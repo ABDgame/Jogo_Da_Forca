@@ -61,7 +61,7 @@ body{
 }
 
 #teclado{
-  margin-top:35px;
+  margin-top:30px;
 
 
 .teclas button{
@@ -77,6 +77,9 @@ body{
   font-family: 'Ubuntu', sans-serif;
   font-weight: 900;
  }
+.teclas button:disabled{
+  cursor: not-allowed;
+}    
 .teclas button:hover{
   transform:scale(1.3);
 }
@@ -85,6 +88,7 @@ body{
   color:#0A3871;
   font-size: 1.2em;
 }
+    
 @media (min-width: 321px){
     .teclas button{
         width: 25px;
@@ -108,16 +112,6 @@ body{
     }
     #categoria{
         font-size: 1.5em;
-    }    
-}
-
-@media (min-width: 321px){
-    .teclas button{
-        width: 25px;
-        height: 25px;
-     }
-    #categoria{
-        font-size: 1.3em;
     }    
 }
 
