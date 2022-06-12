@@ -93,57 +93,60 @@ body{
     .teclas button{
         width: 25px;
         height: 25px;
-     }
+    }
     #categoria{
         font-size: 1.3em;
-    }    
+    }
 }
 
 @media (min-width: 376px){
     .teclas button{
         width: 30px;
         height: 30px;
-     }
+    }
     #palavra-secreta{
         font-size: 1.3em;
     }
     .letras{
         width: 18px;
     }
+
     #categoria{
         font-size: 1.5em;
-    }    
+    }
 }
 
 @media (min-width: 426px){
     .teclas button{
         width: 36px;
         height: 36px;
-     }
+    }
     #palavra-secreta{
         font-size: 1.5em;
     }
     .letras{
         width: 20px;
     }
+
     #categoria{
         font-size: 1.6em;
-    }    
+    }
 }
-    
+
 @media (min-width: 769px){
     .teclas button{
         width: 68px;
         height: 68px;
         font-size: 2em;
-    }    
+    }
     #palavra-secreta{
         font-size: 2.5em;
     }
     .letras{
         width: 35px;
     }
+
     #categoria{
         font-size: 2em;
-    }    
+    }
 }
