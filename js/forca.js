@@ -108,7 +108,7 @@ const palavras = [
         categoria:" "
     },
     palavra027 = {
-        nome: "LAMPADA",
+        nome: "DINOSSAURO",
         categoria:" "
     },
     palavra028 = {
