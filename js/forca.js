@@ -52,7 +52,7 @@ const palavras = [
         categoria:" "
     },
     palavra013 = {
-        nome: "ASTROUNAUTA",
+        nome: "ASTRONAUTA",
         categoria:" "
     },
     palavra014 = {
@@ -68,7 +68,7 @@ const palavras = [
         categoria:" "
     },
     palavra017 = {
-        nome: "AERONAVE",
+        nome: "VASSOURA",
         categoria:" "
     },
     palavra018 = {
@@ -76,7 +76,7 @@ const palavras = [
         categoria:" "
     },
     palavra019 = {
-        nome: "ENXADA",
+        nome: "QUEIJO",
         categoria:" "
     },
     palavra020 = {
