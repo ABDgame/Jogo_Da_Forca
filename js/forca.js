@@ -4,7 +4,7 @@ let palavraSecretaCategoria;
 let palavraSecretaSorteada;
 const palavras = [
     palavra001 = {
-        nome: "TELHA",
+        nome: "TELHADO",
         categoria:" "
     },
     palavra002 = {
@@ -204,6 +204,86 @@ const palavras = [
         categoria:" "
     },
     palavra050 = {
+        nome: "DINHEIRO",
+        categoria:" "
+    },
+    palavra051 = {
+        nome: "VERMELHO",
+        categoria:" "
+    },
+    palavra052 = {
+        nome: "RAINHA",
+        categoria:" "
+    },
+    palavra053 = {
+        nome: "BOLACHA",
+        categoria:" "
+    },
+    palavra054 = {
+        nome: "BORRACHA",
+        categoria:" "
+    },
+    palavra055 = {
+        nome: "VERGONHA",
+        categoria:" "
+    },
+    palavra056 = {
+        nome: "MINHOCA",
+        categoria:" "
+    },
+    palavra057 = {
+        nome: "MONTANHA",
+        categoria:" "
+    },
+    palavra058 = {
+        nome: "CHAVE",
+        categoria:" "
+    },
+    palavra059 = {
+        nome: "JOANINHA",
+        categoria:" "
+    },
+    palavra060 = {
+        nome: "MOINHO",
+        categoria:" "
+    },
+    palavra061 = {
+        nome: "JAQUETA",
+        categoria:" "
+    },
+    palavra062 = {
+        nome: "PRAIA",
+        categoria:" "
+    },
+    palavra063 = {
+        nome: "MEDALHA",
+        categoria:" "
+    },
+    palavra064 = {
+        nome: "HIDRANTE",
+        categoria:" "
+    },
+    palavra065 = {
+        nome: "CACHOEIRA",
+        categoria:" "
+    },
+    palavra066 = {
+        nome: "PANQUECA",
+        categoria:" "
+    },
+    palavra067 = {
+        nome: "GUITARRA",
+        categoria:" "
+    },
+    palavra068 = {
+        nome: "AVESTRUZ",
+        categoria:" "
+    },
+    palavra069 = {
+        nome: "ESPELHO",
+        categoria:" "
+    }, 
+    palavra070 = {
         nome: "PROFESSOR",
         categoria:" "
     }
