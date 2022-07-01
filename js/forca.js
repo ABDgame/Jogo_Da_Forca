@@ -184,7 +184,7 @@ const palavras = [
         categoria:" "
     },
     palavra045 = {
-        nome: "MICROONDA",
+        nome: "LIQUIDIFICADOR",
         categoria:" "
     },
     palavra046 = {
@@ -240,7 +240,7 @@ const palavras = [
         categoria:" "
     },
     palavra059 = {
-        nome: "JOANINHA",
+        nome: "RESFRIADO",
         categoria:" "
     },
     palavra060 = {
@@ -284,6 +284,126 @@ const palavras = [
         categoria:" "
     }, 
     palavra070 = {
+        nome: "BARRIGA",
+        categoria:" "
+    }, 
+    palavra071 = {
+        nome: "SARDINHA",
+        categoria:" "
+    },
+    palavra072 = {
+        nome: "SANDUICHE",
+        categoria:" "
+    },
+    palavra073 = {
+        nome: "PIRANHA",
+        categoria:" "
+    }, 
+    palavra074 = {
+        nome: "GOLFINHO",
+        categoria:" "
+    },
+    palavra075 = {
+        nome: "GIRASSOL",
+        categoria:" "
+    }, 
+    palavra076 = {
+        nome: "GAFANHOTO",
+        categoria:" "
+    }, 
+    palavra077 = {
+        nome: "FOGUETE",
+        categoria:" "
+    }, 
+    palavra078 = {
+        nome: "FILHOTE",
+        categoria:" "
+    }, 
+    palavra079 = {
+        nome: "FEBRE",
+        categoria:" "
+    }, 
+    palavra080 = {
+        nome: "COBRA",
+        categoria:" "
+    }, 
+    palavra081 = {
+        nome: "CEGONHA",
+        categoria:" "
+    }, 
+    palavra082 = {
+        nome: "CARROSSEL",
+        categoria:" "
+    }, 
+    palavra083 = {
+        nome: "REFRIGERANTE",
+        categoria:" "
+    }, 
+    palavra084 = {
+        nome: "COZINHA",
+        categoria:" "
+    }, 
+    palavra085 = {
+        nome: "BANHEIRO",
+        categoria:" "
+    },
+    palavra086 = {
+        nome: "ESCORREGADOR",
+        categoria:" "
+    }, 
+    palavra087 = {
+        nome: "BRIGADEIRO",
+        categoria:" "
+    },
+    palavra088 = {
+        nome: "BOLICHE",
+        categoria:" "
+    }, 
+    palavra089 = {
+        nome: "BATEDEIRA",
+        categoria:" "
+    }, 
+    palavra090 = {
+        nome: "ZEBRA",
+        categoria:" "
+    }, 
+    palavra091= {
+        nome: "BRUXA",
+        categoria:" "
+    }, 
+    palavra092 = {
+        nome: "RAQUETE",
+        categoria:" "
+    }, 
+    palavra093 = {
+        nome: "BELICHE",
+        categoria:" "
+    }, 
+    palavra094 = {
+        nome: "BARRACA",
+        categoria:" "
+    }, 
+    palavra095 = {
+        nome: "BASQUETE",
+        categoria:" "
+    },
+    palavra096 = {
+        nome: "BETERRABA",
+        categoria:" "
+    }, 
+    palavra097 = {
+        nome: "ESCORREGADOR",
+        categoria:" "
+    }, 
+    palavra098 = {
+        nome: "UNHAS",
+        categoria:" "
+    }, 
+    palavra099 = {
+        nome: "ESQUILO",
+        categoria:" "
+    }, 
+    palavra0100 = {
         nome: "PROFESSOR",
         categoria:" "
     }
