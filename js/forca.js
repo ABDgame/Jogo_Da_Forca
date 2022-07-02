@@ -459,7 +459,7 @@ function comparalistas(letra){
         carregaImagemForca();
 
         if(tentativas == 0){
-            abreModal("OPS!", "Não foi dessa vez ... A palavra secreta era <br>" + palavraSecretaSorteada);
+            abreModal("OPS!", "TENTE NOVAMENTE ... ERA <br>" + palavraSecretaSorteada);
         }
     }
     else{
@@ -479,7 +479,7 @@ function comparalistas(letra){
 
     if(vitoria == true)
     {
-        abreModal("PARABÉNS!", "Você venceu...");
+        abreModal("PARABÉNS!", "ESTÁ É A PALAVRA SECRETA...");
         tentativas = 0;
     }
 }
