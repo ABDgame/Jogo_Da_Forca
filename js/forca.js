@@ -450,13 +450,14 @@ function verificaLetraEscolhida(letra){
 function mudarStyleLetra(tecla, condicao){
     if(condicao == false)
     {
-      document.getElementById(tecla).style.background = "#C71585";
-      document.getElementById(tecla).style.color = "#ffffff";
+        document.getElementById(tecla).style.background = "#C71585";
+        document.getElementById(tecla).style.color = "#ffffff";
     }
     else{
-      document.getElementById(tecla).style.background = "#00800";
-      document.getElementById(tecla).style.color = "#ffffff"; 
+        document.getElementById(tecla).style.background = "#008000";
+        document.getElementById(tecla).style.color = "#ffffff";
     }
+
     
 }
 
