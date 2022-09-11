@@ -426,16 +426,29 @@ function montarPalavraNaTela(){
     const palavraTela = document.getElementById("palavra-secreta");
     palavraTela.innerHTML = "";
    
-    for(i = 0; i < palavraSecretaSorteada.length; i++){
+    for(i = 0; i < palavraSecretaSorteada.length; i++){  
         if(listaDinamica[i] == undefined){
-            listaDinamica[i] = "&nbsp;"
-            palavraTela.innerHTML = palavraTela.innerHTML + "<div class='letras'>" + listaDinamica[i] + "</div>"
+            if (palavraSecretaSorteada[i] == " ") {
+                listaDinamica[i] = " ";
+                palavraTela.innerHTML = palavraTela.innerHTML + "<div class='letrasEspaco'>" + listaDinamica[i] + "</div>"
+            }
+            else{
+                listaDinamica[i] = "&nbsp;"
+                palavraTela.innerHTML = palavraTela.innerHTML + "<div class='letras'>" + listaDinamica[i] + "</div>"
+            }     
         }
         else{
-            palavraTela.innerHTML = palavraTela.innerHTML + "<div class='letras'>" + listaDinamica[i] + "</div>"
+            if (palavraSecretaSorteada[i] == " ") {
+                listaDinamica[i] = " ";
+                palavraTela.innerHTML = palavraTela.innerHTML + "<div class='letrasEspaco'>" + listaDinamica[i] + "</div>"
+            }
+            else{
+                palavraTela.innerHTML = palavraTela.innerHTML + "<div class='letras'>" + listaDinamica[i] + "</div>"
+            }    
         }
-    }
+    }   
 }
+
 
 function verificaLetraEscolhida(letra){
     document.getElementById("tecla-" + letra).disabled = true;
