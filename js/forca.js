@@ -472,13 +472,14 @@ function comparalistas(letra){
         }
     }
     else{
-        mudarStyleletra("tecla-" + letra,true);
+        mudarStyleLetra("tecla-" + letra, true);
         for(i = 0; i < palavraSecretaSorteada.length; i++){
             if(palavraSecretaSorteada[i] == letra){
                 listaDinamica[i] = letra;
             }
         }
     }
+    
     
     let vitoria = true;
     for(i = 0; i < palavraSecretaSorteada.length; i++){
