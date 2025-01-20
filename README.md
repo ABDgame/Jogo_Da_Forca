@@ -6,56 +6,62 @@
 <img src="005.png" width="500px">
 
 # CÓDIGO FONTE:
-- 1 https://www.youtube.com/watch?v=0F0bsrV9lMY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=1
+- 1 https://www.youtube.com/watch?v=OvxbtRLUgXY&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=1
 #
-- 2 https://www.youtube.com/watch?v=PGYjqE7BeEQ&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=2
+- 2 https://www.youtube.com/watch?v=Tkd-5oQuk0k&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=2
 #
-- 3
-https://www.youtube.com/watch?v=2QMb8__rZmc&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=3
+- 3 https://www.youtube.com/watch?v=Pe0ZvIYeQDg&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=3
 #
-- 4 https://www.youtube.com/watch?v=Ti_Y0YaCjhQ&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=4
+- 4 https://www.youtube.com/watch?v=FVk54zsBP9I&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=4
 #
-- 5 https://www.youtube.com/watch?v=rL42O4Gnh9Y&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=5
+- 5 https://www.youtube.com/watch?v=4tTAft3SYis&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=5
 #
-- 6 https://www.youtube.com/watch?v=3l2TJn_WGPs&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=6
+- 6 https://www.youtube.com/watch?v=8lVMPLPEH9c&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=6
 #
-- 7 https://www.youtube.com/watch?v=oQ62sEjjIyU&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=7
+- 7 https://www.youtube.com/watch?v=XygOcXc86og&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=7
 #
-- 8 https://www.youtube.com/watch?v=StbGaB0A2S0&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=8
+- 8 https://www.youtube.com/watch?v=wiiYgmHJ0Ww&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=8
 #
-- 9 https://www.youtube.com/watch?v=JFgeEbjMjWA&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=9
+- 9 https://www.youtube.com/watch?v=jdVokZbgqzU&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=9
 #
-- 10 https://www.youtube.com/watch?v=VtSkFTPq8gs&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=10
+- 10 https://www.youtube.com/watch?v=aqSFMK3QClc&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=10
 #
-- 11 https://www.youtube.com/watch?v=uktYK-Dmsbc&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=11 
+- 11 https://www.youtube.com/watch?v=ZhhgCOhIgNY&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=11
 #
-- 12 https://www.youtube.com/watch?v=TchnTcKdVWk&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=12
+- 12 https://www.youtube.com/watch?v=BnBGpExwlJI&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=12
 #
-- 13 https://www.youtube.com/watch?v=ND6aqcl-jVY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=13
+- 13 https://www.youtube.com/watch?v=layAF1DbJE8&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=13
 #
-- 14 https://www.youtube.com/watch?v=s8bTZ-bNYQU&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=14
+- 14 https://www.youtube.com/watch?v=J6kOGSd87j0&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=14
 #
-- 15 https://www.youtube.com/watch?v=JMSH2W5Nwy0&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=15
+- 15 https://www.youtube.com/watch?v=-JvRMLz_Sjo&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=15
 #
-- 16 https://www.youtube.com/watch?v=Yehhb2iThaE&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=16
+- 16 https://www.youtube.com/watch?v=rnEztCX9GIg&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=16
 #
-- 17 https://www.youtube.com/watch?v=kaEr8sguQeg&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=17
+- 17 https://www.youtube.com/watch?v=aOhf_VV5ysY&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=17
 #
-- 18 https://www.youtube.com/watch?v=GGiIhYXICkE&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=18
+- 18 https://www.youtube.com/watch?v=cd2PtET5mtg&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=18
 #
-- 19 https://www.youtube.com/watch?v=7PgEg3ZSHwI&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=19
+- 19 https://www.youtube.com/watch?v=w1iM4vy2aRk&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=19
 #
-- 20 https://www.youtube.com/watch?v=7KEAfg_IUt8&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=20
+- 20 https://www.youtube.com/watch?v=zql7aCiPeIw&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=20
 #
-- 21 https://www.youtube.com/watch?v=grATVt5GAdA&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=21
+- 21 https://www.youtube.com/watch?v=hoFWyG7LV4A&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=21
 #
-- 22 https://www.youtube.com/watch?v=hpBY7-YoCkQ&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=22
+- 22 https://www.youtube.com/watch?v=CE3K_OhyuYM&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=22
 #
-- 23 https://www.youtube.com/watch?v=mzhviuR6ohY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=23
+- 23 https://www.youtube.com/watch?v=qh0XbYpdIQ4&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=23
 #
-- 24 https://www.youtube.com/watch?v=1KYCHSUwLhE&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=24
+- 24 https://www.youtube.com/watch?v=xba8dlOfqbY&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=24
 #
-- 25 https://www.youtube.com/watch?v=euplbcuvdhs&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=25
+- 25 https://www.youtube.com/watch?v=8kSJnA9PKE4&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=25
+
+#
+- 26 https://www.youtube.com/watch?v=kN7el2EDzyg&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=26
+
+#
+- 27 https://www.youtube.com/watch?v=8BVtObVkoiU&list=PLUPt90PJkVdU5kHy_QHmJi0MY_Zgw7CJV&index=27
+
 
 # Color Palette:
  - https://mycolor.space
